@@ -11,7 +11,7 @@
 9. CNNs in tensorflow and pytorch for image classification
 10. image captioning with Recurrent Neural Networks (RNN)
 11. final project - underwater image enhancement paper
-    - jasl;dkfjasdf
+    - experimental evaluation of generator optimizations based on funieGAN
 
 ##### 633
 1. PCA
